@@ -136,7 +136,7 @@ ul {
 }
 
 .header .logo {
-  color: brown;
+  color: black;
   padding-left: 100px;
 }
 
@@ -286,8 +286,9 @@ ul {
 
 .mode-btn,
 .carousel .carousel_track .carousel_slide .card .info p,
-.header .main-nav li a {
-  background-color: #222;
+.header .main-nav li a,
+.nav-scrolled {
+  background-color: #555;
   color: white;
 }
 
